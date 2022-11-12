@@ -1,5 +1,7 @@
-# IBM-Project-49730-1660837040
-
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
+ <h1>Smart Fashion Recommender Application</h1>
+  </div>
 # Smart Fashion Recommender
 
 A Smart Application that recommend products based on user preferences.
